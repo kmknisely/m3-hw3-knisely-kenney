@@ -1,0 +1,19 @@
+@import "variables";
+
+//Mixins
+.bordered {
+  border-top: solid 10px @yellow;
+}
+
+
+
+//Styling
+.topbar{
+  background-color: @yellow;
+}
+
+
+footer{
+  .bordered();
+  background-color: @black;
+}

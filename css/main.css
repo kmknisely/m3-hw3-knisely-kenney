@@ -1,0 +1,10 @@
+.bordered {
+  border-top: solid 10px #f8df1f;
+}
+.topbar {
+  background-color: #f8df1f;
+}
+footer {
+  border-top: solid 10px #f8df1f;
+  background-color: #080801;
+}
