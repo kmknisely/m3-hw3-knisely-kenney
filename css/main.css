@@ -25,6 +25,10 @@
 .jumbotron {
   background-image: url("../img/banner-bg.png");
   background-size: cover;
+  padding: 0;
+}
+.overlay {
+  background-color: rgba(59, 56, 56, 0.66);
   padding: 10% 0;
 }
 .row {
