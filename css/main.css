@@ -23,7 +23,9 @@
   text-transform: uppercase;
 }
 .jumbotron {
-  background-color: #383838;
+  background-image: url("../img/banner-bg.png");
+  background-size: cover;
+  padding: 10% 0;
 }
 footer {
   border-top: solid 10px #f8df1f;
