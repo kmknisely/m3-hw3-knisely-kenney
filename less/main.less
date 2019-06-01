@@ -14,9 +14,6 @@
 }
 
 
-
-
-
 //Styling
 .topbar{
   background-color: @yellow;
@@ -37,6 +34,36 @@
   background-image: url("../img/banner-bg.png");
   background-size: cover;
   padding: 10% 0;
+}
+
+.row {
+  padding: 5% 0;
+  h2{
+    .text(@largetxt; @textblack; uppercase;);
+    span{
+      .text(@largetxt; @red; uppercase);
+    }
+  }
+  p{
+    .text(@smalltxt; @textblack; none;);
+    font-weight: 400;
+  }
+}
+
+#or{
+  .text(@largetxt; @textblack; none;)
+}
+
+#bottom-row{
+  background-color: @grey;
+}
+
+button{
+  background-color: @yellow;
+  padding:1% 2%;
+  .text(@smalltxt; @textblack;uppercase;);
+  border-radius: 8px;
+
 }
 
 
