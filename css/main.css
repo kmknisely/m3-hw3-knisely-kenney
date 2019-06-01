@@ -3,8 +3,30 @@
 }
 .topbar {
   background-color: #f8df1f;
+  padding: 3% 0;
+}
+.topbar .nav {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #050500;
+  font-weight: 500;
+  text-transform: none;
+}
+.topbar li {
+  padding-right: 4%;
+}
+.topbar span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #ee252f;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.jumbotron {
+  background-color: #383838;
 }
 footer {
   border-top: solid 10px #f8df1f;
   background-color: #080801;
+  padding: 3% 0;
 }
