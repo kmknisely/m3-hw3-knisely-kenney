@@ -7,3 +7,6 @@ https://stackoverflow.com/questions/22000754/responsive-bootstrap-jumbotron-back
 https://stackoverflow.com/questions/32006761/full-width-background-color-inside-container-bootstrap
 
 http://lesscss.org/features/#mixins-feature-mixins-parametric-feature
+
+
+I had no major issues in completing this assignment
